@@ -1,0 +1,10 @@
+# Scout — Python-зависимости (проверено на Python 3.12)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+telethon==1.38.1
+httpx==0.28.1
+pydantic==2.10.5
+
+# тесты
+pytest==8.3.4
+pytest-asyncio==0.25.2

@@ -1,0 +1,119 @@
+{
+  "_comment": "Реестр публичных Telegram-площадок для Scout-разведки. Все username проверены через t.me 2026-11-04. type: group (чат) | channel (канал с постами/заявками). invite — публичная пригласительная ссылка (joinchat-hash), Telethon вступает по ней так же, как по username.",
+  "groups": [
+    {
+      "username": "foodovik",
+      "name": "Foodovik business",
+      "category": "freezing",
+      "type": "group",
+      "estimated_members": 5085,
+      "note": "Продукты для общепита, опт"
+    },
+    {
+      "username": "proopt",
+      "name": "Опт продукты питания",
+      "category": "freezing",
+      "type": "group",
+      "estimated_members": 2013,
+      "note": "Оптовые закупки продуктов"
+    },
+    {
+      "username": "eastfruit_trade",
+      "name": "EastFruit trade platform",
+      "category": "freezing",
+      "type": "group",
+      "estimated_members": 18273,
+      "note": "Овощи/фрукты/ягоды/орехи — опт, купить, продать"
+    },
+    {
+      "username": "megaveggie",
+      "name": "Мегаовощ",
+      "category": "freezing",
+      "type": "group",
+      "estimated_members": 3218,
+      "note": "Овощи и заморозка оптом"
+    },
+    {
+      "username": "restodays",
+      "name": "Рестораторы",
+      "category": "bread",
+      "type": "group",
+      "estimated_members": 11210,
+      "note": "Сообщество рестораторов и общепита — покупатели хлеба/выпечки"
+    },
+    {
+      "username": "the_restorator_chat",
+      "name": "Чат Стойкого Ресторатора",
+      "category": "bread",
+      "type": "group",
+      "estimated_members": 13353,
+      "note": "Профессионалы общепита, без рекламы и вакансий"
+    },
+    {
+      "username": "coffeeinmsk",
+      "name": "coffeeinmsk",
+      "category": "coffee",
+      "type": "channel",
+      "estimated_members": 9205,
+      "note": "Кофейни Москвы: скидки, рецепты, кофейные новости"
+    },
+    {
+      "username": "coffee_roasting",
+      "name": "Промышленная обжарка кофе",
+      "category": "coffee",
+      "type": "group",
+      "estimated_members": 172,
+      "note": "Техпроцесс и оборудование обжарщиков"
+    },
+    {
+      "username": "vsem_podryad",
+      "name": "Всем подряд — Субподряды",
+      "category": "construction",
+      "type": "channel",
+      "estimated_members": 16872,
+      "note": "Строительные заказы и субподряды, заявки ежедневно"
+    },
+    {
+      "username": "vsempodryad",
+      "name": "Всем подряд (чат)",
+      "category": "construction",
+      "type": "group",
+      "estimated_members": 5233,
+      "note": "Чат сервиса vsem-podryad.ru: бригады, снабжение"
+    },
+    {
+      "username": "soyuzsto",
+      "name": "Канал Союза Автосервисов",
+      "category": "auto",
+      "type": "channel",
+      "estimated_members": 3124,
+      "note": "Союз автосервисов России: новости, события СТО"
+    },
+    {
+      "username": "fitauto_sto",
+      "name": "СТО чат — управление автосервисным бизнесом (ФИТЛАБ)",
+      "category": "auto",
+      "type": "group",
+      "invite": "https://t.me/+THGTf1EPEUY0kkKh",
+      "estimated_members": 7400,
+      "note": "Чат обмена опытом руководителей автосервисов, экосистема FITAUTO (7 429 подписчиков канала)"
+    },
+    {
+      "username": "vipclean24",
+      "name": "ЧАТ Клинеры® / клининг / работа",
+      "category": "cleaning",
+      "type": "group",
+      "estimated_members": 5501,
+      "note": "Крупный чат клинеров: работа, обмен опытом"
+    },
+    {
+      "username": "cleaning_spb",
+      "name": "Клининг СПб",
+      "category": "cleaning",
+      "type": "group",
+      "invite": "https://t.me/+YGtXAQMGRkBiZGQy",
+      "estimated_members": 276,
+      "note": "Клинеры СПб и ЛО: услуги, поиск, предложение"
+    }
+  ]
+}
