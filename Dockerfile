@@ -18,8 +18,7 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-# том для leads.json / inbox.json / sent_log.json (Railway Volume)
-VOLUME ["/app/data"]
+# том подключается на стороне хостинга (Railway Volume /app/data)
 ENV DATA_DIR=/app/data
 
 EXPOSE 8080
